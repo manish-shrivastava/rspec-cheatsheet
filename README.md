@@ -51,8 +51,8 @@ RSPEC-RAILS
 HOW TO USE
 ===========
 
-  COMMAND LINE
-  =============
+***COMMAND LINE***
+
 rspec --color --format doc spec/widget_spec.rb
 
   RAILS 3 (RSPEC 2)
