@@ -10,7 +10,7 @@ RSPEC-RAILS
 ===========
 
   RAILS-3
-  =======
+===========
 
     CONFIGURE THE GEMFILE
     ======================
@@ -32,7 +32,7 @@ RSPEC-RAILS
           create  autotest/discover.rb
 
   RAILS-2
-  =======
+=========
 
     INSTALL
     =======
@@ -49,7 +49,7 @@ RSPEC-RAILS
         create  script/spec
 
 HOW TO USE
-==========
+===========
 
   COMMAND LINE
   =============
