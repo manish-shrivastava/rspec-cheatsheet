@@ -161,7 +161,8 @@ EXPECTATIONS
       expect { thing.destroy }.to change(Thing, :count).by(-1)
 
 Mocks and Stubs
-      ===============
+===============
+
       user_mock = mock "User"
       user_mock.should_receive(:authenticate).with("password").and_return(true)
       user_mock.should_receive(:coffee).exactly(3).times.and_return(:americano)
