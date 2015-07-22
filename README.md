@@ -1,4 +1,4 @@
-rspec-cheatsheet
+Rspec cheatsheet
 ================
 
 INSTALL
